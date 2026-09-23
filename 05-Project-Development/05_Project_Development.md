@@ -62,3 +62,12 @@ function onCellEdit(sysIDs, table, oldValues, newValue, callback) {
 
 ## Evidence to Add
 Upload screenshots of all three Client Scripts, the UI Policy, and both UI Policy Actions.
+
+### Screenshots
+
+- [High Impact Control UI Policy](./01_High_Impact_Control_UI_Policy.png.jpeg)
+- [Auto Set Urgency Client Script](./02_Auto_Set_Urgency_Client_Script.png.jpeg)
+- [Prevent Save Assigned To Client Script](./03_Prevent_Save_Assigned_To_Client_Script.png.jpeg)
+- [Prevent State Change List Edit](./04_Prevent_State_Change_List_Edit.png.jpeg)
+- [Assignment Group UI Policy Action](./05-assignment-group-action.png.jpeg)
+- [Urgency UI Policy Action](./06-urgency-action.png.jpeg)
