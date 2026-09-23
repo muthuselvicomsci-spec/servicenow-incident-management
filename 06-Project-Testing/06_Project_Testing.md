@@ -12,4 +12,16 @@
 | TC07 | Edit State from Incident form | State change saves |
 
 ## Result
-Fill Pass/Fail after executing each test and attach the corresponding screenshots.
+## Result
+
+| Test Case | Result | Evidence |
+|-----------|--------|----------|
+| TC01 | Pass | TC01 evidence.jpeg |
+| TC02 | Pass | TC02 evidence.jpeg |
+| TC03 | Pass | TC03_High_Impact_Auto_Urgency.png.jpeg |
+| TC04 | Pass | TC04_Urgency_ReadOnly.png.jpeg |
+| TC05 | Pass | TC05_Impact_High_to_Medium.png.jpeg |
+| TC06 | Pass | TC06_State_List_Edit_Blocked.png.jpeg |
+| TC07 | Pass | TC07_State_Change_From_Incident_Form.png.jpeg |
+
+All test cases TC01–TC07 were executed successfully and the corresponding evidence screenshots were uploaded to the `06-Project-Testing` folder.
