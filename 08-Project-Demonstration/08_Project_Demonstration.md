@@ -3,7 +3,7 @@
 Upload the final demonstration video to Google Drive and set access to **Anyone with the link can view**.
 
 Google Drive Link:
-`PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE`
+`https://drive.google.com/file/d/1pqPXuD9edZAEfEqqzlWNjZMKFxibymx8/view?usp=sharing
 
 ## Demo Contents
 1. Project Name: Implement Client Script & UI Policy (Incident)
@@ -18,5 +18,4 @@ Google Drive Link:
 10. Reverse condition test
 11. Final output
 
-## Presenter Details
-Add student/team details before final submission.
+
